@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Python
+__pycache__/
+
+# Virtual env
+venv/
+.env
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large model / binaries (track with LFS if needed)
+classifier.xml
+haarcascade_frontalface_default.xml
